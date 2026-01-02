@@ -13,3 +13,8 @@ https://github.com/hexcamp/peerhex-americas-wikipedia-cities
 
 `0.0.6.6.6.0.0.X.X.X.X.X.X.X.X.X`
 
+### OpenStreetMap Data and Notebooks
+
+`0.1.6.6.6.X.X.X.X.X.X.X.X.X.X.X`
+
+
